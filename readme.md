@@ -20,10 +20,6 @@ Ultra Shop facilitate online transactions of goods and services through means of
 
 ## Demo
 
-## Screenshots
-<p align="center">
-<img  src="screenshot.png"/>
-<p>
 
 ## Technologies
 * Wordpress - version 5.6
