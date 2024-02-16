@@ -47,7 +47,7 @@ Ultra Shop facilitate online transactions of goods and services through means of
 Project is: _finished_
 
 ## Contact
-contact@delta-dev-software.com
+brarmohanpreet@gmail.com
 
 ## License
 <a href="license.txt">MIT License</a>"# wordpress-cms" 
